@@ -1,0 +1,36 @@
+# Python 바이트 코드
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 배포 관련
+dist/
+build/
+*.egg-info/
+*.egg
+
+# 가상환경
+venv/
+env/
+.env
+.venv/
+ENV/
+
+# IDE 설정
+.idea/
+.vscode/
+*.sublime-*
+
+# 테스트 및 커버리지
+.coverage
+.pytest_cache/
+htmlcov/
+
+# 로그
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 로컬 개발 설정
+.python-version
